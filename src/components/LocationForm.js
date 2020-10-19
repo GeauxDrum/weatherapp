@@ -1,6 +1,10 @@
 import React, { useState } from "react";
 
-export default function LocationForm({ getDeetz }) {
+export default function LocationForm({
+  getDeetz,
+  inputBackground,
+  inputTextColor,
+}) {
   const [input, setInput] = useState("");
 
   const locationFormSubmit = (e) => {
@@ -12,6 +16,8 @@ export default function LocationForm({ getDeetz }) {
   return (
     <form onSubmit={locationFormSubmit}>
       <input
+        style={{ backgroundColor: inputBackground, color: inputTextColor }}
+        className="input"
         type="text"
         value={input}
         placeholder="select location"

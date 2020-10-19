@@ -12,3 +12,38 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.title {
+  font-size: 80px;
+  padding: 30px;
+}
+.input {
+  font-size: 30px;
+}
+
+.displayHeader {
+  font-size: 60px;
+  padding: 30px;
+}
+
+.weather-display {
+  font-size: 40px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 20px;
+}
+.temperature{
+  font-weight: bold;
+  font-size: 100px;
+}
+
+img {
+  max-height: 300px;
+  max-width: 300px;
+}
