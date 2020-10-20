@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/weatherapp/static/css/main.847b26aa.chunk.css",
+    "main.js": "/weatherapp/static/js/main.e662538a.chunk.js",
+    "main.js.map": "/weatherapp/static/js/main.e662538a.chunk.js.map",
+    "runtime-main.js": "/weatherapp/static/js/runtime-main.cb4f0870.js",
+    "runtime-main.js.map": "/weatherapp/static/js/runtime-main.cb4f0870.js.map",
+    "static/js/2.e6abd85b.chunk.js": "/weatherapp/static/js/2.e6abd85b.chunk.js",
+    "static/js/2.e6abd85b.chunk.js.map": "/weatherapp/static/js/2.e6abd85b.chunk.js.map",
+    "index.html": "/weatherapp/index.html",
+    "precache-manifest.558dd66d98bef2896fdb19805b6720db.js": "/weatherapp/precache-manifest.558dd66d98bef2896fdb19805b6720db.js",
+    "service-worker.js": "/weatherapp/service-worker.js",
+    "static/css/main.847b26aa.chunk.css.map": "/weatherapp/static/css/main.847b26aa.chunk.css.map",
+    "static/js/2.e6abd85b.chunk.js.LICENSE.txt": "/weatherapp/static/js/2.e6abd85b.chunk.js.LICENSE.txt",
+    "static/media/wi-day-cloudy.svg": "/weatherapp/static/media/wi-day-cloudy.3237f7da.svg",
+    "static/media/wi-day-sunny.svg": "/weatherapp/static/media/wi-day-sunny.4b9869a6.svg",
+    "static/media/wi-fog.svg": "/weatherapp/static/media/wi-fog.c356784f.svg",
+    "static/media/wi-night-alt-cloudy.svg": "/weatherapp/static/media/wi-night-alt-cloudy.7c36f2b5.svg",
+    "static/media/wi-night-alt-rain.svg": "/weatherapp/static/media/wi-night-alt-rain.bc016c3b.svg",
+    "static/media/wi-night-clear.svg": "/weatherapp/static/media/wi-night-clear.f86c33c4.svg",
+    "static/media/wi-rain.svg": "/weatherapp/static/media/wi-rain.e13be320.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cb4f0870.js",
+    "static/js/2.e6abd85b.chunk.js",
+    "static/css/main.847b26aa.chunk.css",
+    "static/js/main.e662538a.chunk.js"
+  ]
+}
